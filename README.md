@@ -1,5 +1,6 @@
 # code_verification
 
+Example of Code(Pin) Verification screen using Flutter Provider
 A new Flutter project.
 
 ## Getting Started
